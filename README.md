@@ -1,0 +1,2 @@
+# BBScans
+An application for scanning QR codes. The current application is still under development. Users only need to open the application to scan the QR code they want to scan. The later project will also add scanning product barcodes and more scanning functions. , Test the integrity of the interface and the integrity of the scanning logic at the current stage. If you encounter any problems during the test, please contact me
